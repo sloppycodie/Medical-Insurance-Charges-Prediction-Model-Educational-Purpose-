@@ -16,7 +16,7 @@ baseline.
 -   **Main model:** Linear Regression
 -   **Baseline:** Dummy Regressor using the median
 -   **Train/test split:** 80% / 20%
--   **Random state:** 42
+-   **Random state:** 69
 
 ## Dataset
 
